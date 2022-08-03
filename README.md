@@ -15,11 +15,11 @@
  
 ## Screenshots
  
- >>> Login Page <<<
+ Login Page
 
  ![1](https://user-images.githubusercontent.com/75551627/182508733-12c7d160-e365-4cff-b0f9-81c89541dadd.JPG)
  
- >>> Client information form page <<<
+ Client information form page
 
  ![2](https://user-images.githubusercontent.com/75551627/182508852-3e097bd1-0f31-44f2-bdb7-8aea795d8155.JPG)
 

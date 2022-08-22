@@ -1,16 +1,16 @@
 # Cliend-Information-Registration-App
 
 ## Introduction
-•	This app is useful to register client. Whenever you start working with client first of all you need to registed in company's directory, with the help of this app you can regiser client infromation and see it.
+•	This app is useful to register a client. Whenever you start working with a client first of all you need to register in the company's directory, with the help of this app you can register client information and see it.
 
 ## Project features
  
- 1. This app has login page to enter user login credentials.
- 2. With the help of segue you can navigate to the second page to feed the cliend information.
+1. This app has a login page to enter user login credentials.
+2. With the help of segue way, you can navigate to the second page to feed the client information.
  
 ## Programming Language and Technologies used
 
- - [x] Swfit programming language
+ - [x] Swift programming language
  - [x] Xcode IDE
  
 ## Screenshots

@@ -1,4 +1,4 @@
-# Cliend-Information-Registration-App
+# Client Information Registration App
 
 ## Introduction
 •	This app is useful to register a client. Whenever you start working with a client first of all you need to register in the company's directory, with the help of this app you can register client information and see it.
